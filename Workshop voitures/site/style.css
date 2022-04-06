@@ -1,0 +1,63 @@
+@font-face{
+	font-family: "junegull";
+	src: url('junegull-regular_[allfont.net].ttf');
+}
+
+html{
+	background-color: #40FF29;
+	font-family: "junegull";
+}
+
+h2{
+	text-align: center;
+}
+
+.acc_txt{	
+	font-family: "junegull";
+}
+
+.entete{
+	background-color: white;
+	width: 75%;
+	height: 50px;
+	margin-top: 2%;
+	margin-left: 13%;
+	text-align: center;
+}
+
+.present{
+	background-color: white;
+	width: 75%;
+	height: 400px;
+	margin-left: 13%;
+	text-align: center;
+}
+
+.present a{
+	color: green;
+}
+
+.present a:hover{
+	color: blue;
+}
+
+.voit{
+	width: 30%;
+	margin-left: 10%;
+	float: left;
+}
+
+.descr{
+	margin-top: 50px;
+	margin-left: 48%;
+	width: 50%;
+	box-shadow: 0px 1px 2px black;
+}
+
+.present_fin{
+	background-color: white;
+	width: 75%;
+	height: 250px;
+	margin-left: 13%;
+	text-align: center;
+}
