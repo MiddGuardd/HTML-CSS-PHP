@@ -1,0 +1,139 @@
+@font-face
+{
+	font-family: "Vidaloka";
+	src: url('Vidaloka-Regular.ttf');
+	font-family: "Playfair Display";
+	src: url('PlayfairDisplay-Regular.ttf');
+}
+
+
+
+body
+{
+	background-color: white;
+}
+
+h1
+{
+	color: #A0384F;
+	text-align: left;
+	font-family: "Vidaloka";
+	font-weight: 400;
+	font-size: 60px;	
+	text-align: left;
+}
+
+.div0
+{
+	display: flex;
+	justify-content: center;
+}
+
+.div1
+{
+	background-color: #F1EEE9;
+	height: 1000px;
+}
+
+.Paragraphe_images
+{
+	background-color: white;
+	margin: auto;
+	height: 500px;
+	width: 600px;
+}
+
+.image1
+{
+	margin: auto;
+}
+
+.image
+{
+	margin-left: 50px;
+}
+
+h2
+{
+	color: #A0384F;
+	font-family: "Vidaloka";
+	font-size: 20px;
+	text-align: center;
+}
+
+#boxes{
+	content: "";
+	display: table;
+	clear: both;
+	}
+	.divP1
+	{
+		float: left;
+		margin-left: 50px;
+	}
+	.divP2
+	{
+		float: left;
+		margin-left: 57px;
+	}
+	.divP3
+	{
+		float: left;
+		margin-left: 57px;
+	}
+
+p
+{
+	text-align: center;
+	font-family: "Playfair Display";
+	font-size: 13px;
+
+}
+
+.Lien
+{
+	color: #63cebc;
+}
+
+
+.Paragraphe2
+{
+	text-align: center;
+}
+
+.img_bot
+{
+	margin-top: 50px;
+	height: 335px;
+}
+
+.ecrit
+{
+	text-align: center;
+	margin-left: 33%;
+	margin-top: -24%
+}
+
+.titre_image
+{
+	position: absolute;
+}
+
+.texte_image
+{
+	text-align: left;
+}
+
+.Paragraphe3
+{
+	background-color: white;
+	margin-top: 25%;
+}
+
+h3
+{
+	font-family: "Playfair Display";
+	font-weight: 400;
+	color: #A0384F;
+	text-align: center;font-size: 40px;
+}
